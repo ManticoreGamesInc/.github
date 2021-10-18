@@ -6,7 +6,7 @@ Manticore Games was established by industry veterans from Electronic Arts, Blizz
 
 ## Get Involved
 
-A lot of our products, including our documentation, are open source. 
+A lot of our products, including our [API documentation](https://github.com/ManticoreGamesInc/platform-documentation), are open source and we always welcome contributions from the community.
 
 ## Jobs
 
