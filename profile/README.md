@@ -8,7 +8,7 @@ Manticore Games was established by industry veterans from Electronic Arts, Blizz
 
 Core is a free, all-in-one platform for game Creators offering access to the full power of the Unreal Engine, thousands of free, professional music, art, and sound assets, and an industry-leading monetization system.
 
-If you want to learn more about what Core has to offer and what it's like to be a developer on the platoform, head to our [create](https://www.coregames.com/create) page.
+If you want to learn more about what Core has to offer and what it's like to be a developer on the platform, head to our [create](https://www.coregames.com/create) page.
 
 ## Get Involved
 
